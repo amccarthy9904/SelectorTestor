@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace STConsole
 {
-    class Program
+    class Console
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
